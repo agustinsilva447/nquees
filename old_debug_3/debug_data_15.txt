@@ -1,0 +1,940 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.11.02 18:38:43 =~=~=~=~=~=~=~=~=~=~=~=
+13-queens problem:
+Solutions: 0.  
+Solutions: 0.  
+Solutions: 0.  
+Solutions: 10.  
+Solutions: 58.  
+Solutions: 132.  
+Solutions: 202.  
+Solutions: 268.  
+Solutions: 310.  
+Solutions: 382.  
+Solutions: 442.  
+Solutions: 554.  
+Solutions: 648.  
+Solutions: 740.  
+Solutions: 782.  
+Solutions: 846.  
+Solutions: 968.  
+Solutions: 1106.  
+Solutions: 1206.  
+Solutions: 1296.  
+Solutions: 1390.  
+Solutions: 1552.  
+Solutions: 1742.  
+Solutions: 1908.  
+Solutions: 1986.  
+Solutions: 2054.  
+Solutions: 2154.  
+Solutions: 2286.  
+Solutions: 2490.  
+Solutions: 2578.  
+Solutions: 2662.  
+Solutions: 2808.  
+Solutions: 2982.  
+Solutions: 3110.  
+Solutions: 3238.  
+Solutions: 3332.  
+Solutions: 3458.  
+Solutions: 3648.  
+Solutions: 3836.  
+Solutions: 3920.  
+Solutions: 4018.  
+Solutions: 4138.  
+Solutions: 4312.  
+Solutions: 4462.  
+Solutions: 4596.  
+Solutions: 4628.  
+Solutions: 4690.  
+Solutions: 4784.  
+Solutions: 4880.  
+Solutions: 4982.  
+Solutions: 5022.  
+Solutions: 5082.  
+Solutions: 5172.  
+Solutions: 5292.  
+Solutions: 5380.  
+Solutions: 5434.  
+Solutions: 5460.  
+Solutions: 5496.  
+Solutions: 5518.  
+Solutions: 5574.  
+Solutions: 5702.  
+Solutions: 5878.  
+Solutions: 6010.  
+Solutions: 6146.  
+Solutions: 6240.  
+Solutions: 6298.  
+Solutions: 6436.  
+Solutions: 6562.  
+Solutions: 6718.  
+Solutions: 6818.  
+Solutions: 6912.  
+Solutions: 6988.  
+Solutions: 7070.  
+Solutions: 7258.  
+Solutions: 7472.  
+Solutions: 7666.  
+Solutions: 7806.  
+Solutions: 7890.  
+Solutions: 8002.  
+Solutions: 8202.  
+Solutions: 8420.  
+Solutions: 8596.  
+Solutions: 8792.  
+Solutions: 8894.  
+Solutions: 9004.  
+Solutions: 9198.  
+Solutions: 9384.  
+Solutions: 9504.  
+Solutions: 9666.  
+Solutions: 9798.  
+Solutions: 9864.  
+Solutions: 9966.  
+Solutions: 10110.  
+Solutions: 10302.  
+Solutions: 10462.  
+Solutions: 10566.  
+Solutions: 10632.  
+Solutions: 10764.  
+Solutions: 10920.  
+Solutions: 11168.  
+Solutions: 11394.  
+Solutions: 11506.  
+Solutions: 11596.  
+Solutions: 11650.  
+Solutions: 11802.  
+Solutions: 11962.  
+Solutions: 12066.  
+Solutions: 12176.  
+Solutions: 12274.  
+Solutions: 12296.  
+Solutions: 12398.  
+Solutions: 12508.  
+Solutions: 12616.  
+Solutions: 12712.  
+Solutions: 12800.  
+Solutions: 12882.  
+Solutions: 12976.  
+Solutions: 13040.  
+Solutions: 13094.  
+Solutions: 13138.  
+Solutions: 13212.  
+Solutions: 13276.  
+Solutions: 13370.  
+Solutions: 13432.  
+Solutions: 13470.  
+Solutions: 13658.  
+Solutions: 13886.  
+Solutions: 14144.  
+Solutions: 14368.  
+Solutions: 14504.  
+Solutions: 14658.  
+Solutions: 14816.  
+Solutions: 15056.  
+Solutions: 15262.  
+Solutions: 15468.  
+Solutions: 15666.  
+Solutions: 15844.  
+Solutions: 15974.  
+Solutions: 16158.  
+Solutions: 16406.  
+Solutions: 16604.  
+Solutions: 16830.  
+Solutions: 17012.  
+Solutions: 17184.  
+Solutions: 17350.  
+Solutions: 17690.  
+Solutions: 17998.  
+Solutions: 18304.  
+Solutions: 18526.  
+Solutions: 18802.  
+Solutions: 18974.  
+Solutions: 19136.  
+Solutions: 19440.  
+Solutions: 19716.  
+Solutions: 19882.  
+Solutions: 20018.  
+Solutions: 20184.  
+Solutions: 20282.  
+Solutions: 20468.  
+Solutions: 20700.  
+Solutions: 21048.  
+Solutions: 21260.  
+Solutions: 21394.  
+Solutions: 21516.  
+Solutions: 21594.  
+Solutions: 21722.  
+Solutions: 21938.  
+Solutions: 22128.  
+Solutions: 22330.  
+Solutions: 22528.  
+Solutions: 22640.  
+Solutions: 22706.  
+Solutions: 22862.  
+Solutions: 23008.  
+Solutions: 23204.  
+Solutions: 23320.  
+Solutions: 23454.  
+Solutions: 23574.  
+Solutions: 23620.  
+Solutions: 23742.  
+Solutions: 23916.  
+Solutions: 24020.  
+Solutions: 24092.  
+Solutions: 24162.  
+Solutions: 24236.  
+Solutions: 24340.  
+Solutions: 24466.  
+Solutions: 24574.  
+Solutions: 24664.  
+Solutions: 24708.  
+Solutions: 24852.  
+Solutions: 24960.  
+Solutions: 25100.  
+Solutions: 25210.  
+Solutions: 25312.  
+Solutions: 25398.  
+Solutions: 25552.  
+Solutions: 25826.  
+Solutions: 26102.  
+Solutions: 26412.  
+Solutions: 26618.  
+Solutions: 26856.  
+Solutions: 26986.  
+Solutions: 27216.  
+Solutions: 27502.  
+Solutions: 27798.  
+Solutions: 28050.  
+Solutions: 28272.  
+Solutions: 28434.  
+Solutions: 28630.  
+Solutions: 28902.  
+Solutions: 29200.  
+Solutions: 29456.  
+Solutions: 29672.  
+Solutions: 29926.  
+Solutions: 30178.  
+Solutions: 30362.  
+Solutions: 30626.  
+Solutions: 30934.  
+Solutions: 31234.  
+Solutions: 31424.  
+Solutions: 31632.  
+Solutions: 31830.  
+Solutions: 32000.  
+Solutions: 32222.  
+Solutions: 32502.  
+Solutions: 32750.  
+Solutions: 32882.  
+Solutions: 33040.  
+Solutions: 33172.  
+Solutions: 33298.  
+Solutions: 33476.  
+Solutions: 33684.  
+Solutions: 33882.  
+Solutions: 34092.  
+Solutions: 34160.  
+Solutions: 34252.  
+Solutions: 34434.  
+Solutions: 34634.  
+Solutions: 34832.  
+Solutions: 35030.  
+Solutions: 35206.  
+Solutions: 35308.  
+Solutions: 35384.  
+Solutions: 35616.  
+Solutions: 35836.  
+Solutions: 36004.  
+Solutions: 36110.  
+Solutions: 36210.  
+Solutions: 36316.  
+Solutions: 36514.  
+Solutions: 36736.  
+Solutions: 36880.  
+Solutions: 36988.  
+Solutions: 37050.  
+Solutions: 37186.  
+Solutions: 37370.  
+Solutions: 37530.  
+Solutions: 37718.  
+Solutions: 37866.  
+Solutions: 37974.  
+Solutions: 38070.  
+Solutions: 38138.  
+Solutions: 38386.  
+Solutions: 38622.  
+Solutions: 38820.  
+Solutions: 38974.  
+Solutions: 39138.  
+Solutions: 39302.  
+Solutions: 39520.  
+Solutions: 39910.  
+Solutions: 40338.  
+Solutions: 40698.  
+Solutions: 40996.  
+Solutions: 41272.  
+Solutions: 41460.  
+Solutions: 41692.  
+Solutions: 42074.  
+Solutions: 42436.  
+Solutions: 42766.  
+Solutions: 43048.  
+Solutions: 43364.  
+Solutions: 43566.  
+Solutions: 43758.  
+Solutions: 44016.  
+Solutions: 44400.  
+Solutions: 44640.  
+Solutions: 44850.  
+Solutions: 45102.  
+Solutions: 45350.  
+Solutions: 45644.  
+Solutions: 45974.  
+Solutions: 46396.  
+Solutions: 46716.  
+Solutions: 46948.  
+Solutions: 47194.  
+Solutions: 47308.  
+Solutions: 47474.  
+Solutions: 47646.  
+Solutions: 47918.  
+Solutions: 48234.  
+Solutions: 48454.  
+Solutions: 48554.  
+Solutions: 48620.  
+Solutions: 48764.  
+Solutions: 48934.  
+Solutions: 49138.  
+Solutions: 49404.  
+Solutions: 49640.  
+Solutions: 49814.  
+Solutions: 49896.  
+Solutions: 49988.  
+Solutions: 50244.  
+Solutions: 50476.  
+Solutions: 50678.  
+Solutions: 50820.  
+Solutions: 50916.  
+Solutions: 51064.  
+Solutions: 51262.  
+Solutions: 51480.  
+Solutions: 51666.  
+Solutions: 51792.  
+Solutions: 51884.  
+Solutions: 52022.  
+Solutions: 52280.  
+Solutions: 52484.  
+Solutions: 52708.  
+Solutions: 52888.  
+Solutions: 53018.  
+Solutions: 53164.  
+Solutions: 53248.  
+Solutions: 53502.  
+Solutions: 53744.  
+Solutions: 53950.  
+Solutions: 54164.  
+Solutions: 54338.  
+Solutions: 54510.  
+Solutions: 54668.  
+Solutions: 54772.  
+Solutions: 55074.  
+Solutions: 55436.  
+Solutions: 55682.  
+Solutions: 55918.  
+Solutions: 56202.  
+Solutions: 56444.  
+Solutions: 56688.  
+Solutions: 57060.  
+Solutions: 57420.  
+Solutions: 57654.  
+Solutions: 57960.  
+Solutions: 58240.  
+Solutions: 58454.  
+Solutions: 58762.  
+Solutions: 59122.  
+Solutions: 59456.  
+Solutions: 59630.  
+Solutions: 59834.  
+Solutions: 60074.  
+Solutions: 60318.  
+Solutions: 60604.  
+Solutions: 60940.  
+Solutions: 61344.  
+Solutions: 61530.  
+Solutions: 61752.  
+Solutions: 62004.  
+Solutions: 62212.  
+Solutions: 62374.  
+Solutions: 62634.  
+Solutions: 62886.  
+Solutions: 63194.  
+Solutions: 63382.  
+Solutions: 63514.  
+Solutions: 63624.  
+Solutions: 63724.  
+Solutions: 63954.  
+Solutions: 64166.  
+Solutions: 64370.  
+Solutions: 64536.  
+Solutions: 64684.  
+Solutions: 64760.  
+Solutions: 64854.  
+Solutions: 65054.  
+Solutions: 65246.  
+Solutions: 65406.  
+Solutions: 65552.  
+Solutions: 65644.  
+Solutions: 65706.  
+Solutions: 65778.  
+Solutions: 65876.  
+Solutions: 65990.  
+Solutions: 66072.  
+Solutions: 66131.  
+Solutions: 66170.  
+Solutions: 66269.  
+Solutions: 66389.  
+Solutions: 66492.  
+Solutions: 66611.  
+Solutions: 66726.  
+Solutions: 66814.  
+Solutions: 66898.  
+Solutions: 66965.  
+Solutions: 67083.  
+Solutions: 67230.  
+Solutions: 67341.  
+Solutions: 67485.  
+Solutions: 67569.  
+Solutions: 67660.  
+Solutions: 67753.  
+Solutions: 67841.  
+Solutions: 67983.  
+Solutions: 68190.  
+Solutions: 68349.  
+Solutions: 68502.  
+Solutions: 68627.  
+Solutions: 68755.  
+Solutions: 68865.  
+Solutions: 68966.  
+Solutions: 69176.  
+Solutions: 69348.  
+Solutions: 69471.  
+Solutions: 69587.  
+Solutions: 69759.  
+Solutions: 69884.  
+Solutions: 70001.  
+Solutions: 70154.  
+Solutions: 70363.  
+Solutions: 70492.  
+Solutions: 70588.  
+Solutions: 70719.  
+Solutions: 70848.  
+Solutions: 70997.  
+Solutions: 71155.  
+Solutions: 71347.  
+Solutions: 71509.  
+Solutions: 71589.  
+Solutions: 71701.  
+Solutions: 71794.  
+Solutions: 71886.  
+Solutions: 72017.  
+Solutions: 72123.  
+Solutions: 72275.  
+Solutions: 72405.  
+Solutions: 72465.  
+Solutions: 72554.  
+Solutions: 72643.  
+Solutions: 72742.  
+Solutions: 72849.  
+Solutions: 72949.  
+Solutions: 73080.  
+Solutions: 73175.  
+Solutions: 73242.  
+Solutions: 73298.  
+Solutions: 73377.  
+Solutions: 73469.  
+Solutions: 73585.  
+Solutions: 73659.  
+Solutions: 73724.  
+Solutions: 73727.  
+Processing time: 0.818957 seconds. 
+13-queens problem:
+Solutions: 0.  
+Solutions: 0.  
+Solutions: 0.  
+Solutions: 10.  
+Solutions: 58.  
+Solutions: 132.  
+Solutions: 202.  
+Solutions: 268.  
+Solutions: 310.  
+Solutions: 382.  
+Solutions: 442.  
+Solutions: 556.  
+Solutions: 648.  
+Solutions: 740.  
+Solutions: 782.  
+Solutions: 846.  
+Solutions: 968.  
+Solutions: 1106.  
+Solutions: 1208.  
+Solutions: 1296.  
+Solutions: 1390.  
+Solutions: 1554.  
+Solutions: 1742.  
+Solutions: 1908.  
+Solutions: 1986.  
+Solutions: 2054.  
+Solutions: 2154.  
+Solutions: 2286.  
+Solutions: 2490.  
+Solutions: 2578.  
+Solutions: 2662.  
+Solutions: 2808.  
+Solutions: 2982.  
+Solutions: 3110.  
+Solutions: 3238.  
+Solutions: 3334.  
+Solutions: 3460.  
+Solutions: 3650.  
+Solutions: 3838.  
+Solutions: 3924.  
+Solutions: 4022.  
+Solutions: 4142.  
+Solutions: 4316.  
+Solutions: 4466.  
+Solutions: 4600.  
+Solutions: 4632.  
+Solutions: 4696.  
+Solutions: 4790.  
+Solutions: 4886.  
+Solutions: 4986.  
+Solutions: 5028.  
+Solutions: 5088.  
+Solutions: 5178.  
+Solutions: 5298.  
+Solutions: 5386.  
+Solutions: 5440.  
+Solutions: 5466.  
+Solutions: 5502.  
+Solutions: 5524.  
+Solutions: 5578.  
+Solutions: 5708.  
+Solutions: 5884.  
+Solutions: 6016.  
+Solutions: 6152.  
+Solutions: 6246.  
+Solutions: 6304.  
+Solutions: 6442.  
+Solutions: 6568.  
+Solutions: 6724.  
+Solutions: 6824.  
+Solutions: 6918.  
+Solutions: 6994.  
+Solutions: 7076.  
+Solutions: 7264.  
+Solutions: 7478.  
+Solutions: 7672.  
+Solutions: 7812.  
+Solutions: 7896.  
+Solutions: 8008.  
+Solutions: 8206.  
+Solutions: 8428.  
+Solutions: 8604.  
+Solutions: 8798.  
+Solutions: 8902.  
+Solutions: 9010.  
+Solutions: 9206.  
+Solutions: 9392.  
+Solutions: 9512.  
+Solutions: 9668.  
+Solutions: 9806.  
+Solutions: 9872.  
+Solutions: 9972.  
+Solutions: 10118.  
+Solutions: 10310.  
+Solutions: 10470.  
+Solutions: 10574.  
+Solutions: 10640.  
+Solutions: 10772.  
+Solutions: 10928.  
+Solutions: 11176.  
+Solutions: 11402.  
+Solutions: 11514.  
+Solutions: 11604.  
+Solutions: 11658.  
+Solutions: 11810.  
+Solutions: 11970.  
+Solutions: 12074.  
+Solutions: 12186.  
+Solutions: 12284.  
+Solutions: 12306.  
+Solutions: 12408.  
+Solutions: 12516.  
+Solutions: 12628.  
+Solutions: 12724.  
+Solutions: 12812.  
+Solutions: 12896.  
+Solutions: 12990.  
+Solutions: 13052.  
+Solutions: 13108.  
+Solutions: 13152.  
+Solutions: 13226.  
+Solutions: 13290.  
+Solutions: 13384.  
+Solutions: 13444.  
+Solutions: 13486.  
+Solutions: 13676.  
+Solutions: 13904.  
+Solutions: 14162.  
+Solutions: 14386.  
+Solutions: 14522.  
+Solutions: 14676.  
+Solutions: 14834.  
+Solutions: 15074.  
+Solutions: 15280.  
+Solutions: 15486.  
+Solutions: 15684.  
+Solutions: 15862.  
+Solutions: 15992.  
+Solutions: 16176.  
+Solutions: 16424.  
+Solutions: 16622.  
+Solutions: 16848.  
+Solutions: 17030.  
+Solutions: 17202.  
+Solutions: 17368.  
+Solutions: 17708.  
+Solutions: 18016.  
+Solutions: 18322.  
+Solutions: 18544.  
+Solutions: 18820.  
+Solutions: 18992.  
+Solutions: 19154.  
+Solutions: 19458.  
+Solutions: 19734.  
+Solutions: 19900.  
+Solutions: 20036.  
+Solutions: 20202.  
+Solutions: 20300.  
+Solutions: 20486.  
+Solutions: 20720.  
+Solutions: 21070.  
+Solutions: 21280.  
+Solutions: 21412.  
+Solutions: 21534.  
+Solutions: 21612.  
+Solutions: 21740.  
+Solutions: 21960.  
+Solutions: 22148.  
+Solutions: 22356.  
+Solutions: 22550.  
+Solutions: 22658.  
+Solutions: 22724.  
+Solutions: 22886.  
+Solutions: 23028.  
+Solutions: 23222.  
+Solutions: 23344.  
+Solutions: 23478.  
+Solutions: 23594.  
+Solutions: 23646.  
+Solutions: 23766.  
+Solutions: 23942.  
+Solutions: 24038.  
+Solutions: 24110.  
+Solutions: 24180.  
+Solutions: 24258.  
+Solutions: 24360.  
+Solutions: 24486.  
+Solutions: 24600.  
+Solutions: 24686.  
+Solutions: 24730.  
+Solutions: 24870.  
+Solutions: 24984.  
+Solutions: 25122.  
+Solutions: 25236.  
+Solutions: 25332.  
+Solutions: 25422.  
+Solutions: 25574.  
+Solutions: 25854.  
+Solutions: 26132.  
+Solutions: 26440.  
+Solutions: 26638.  
+Solutions: 26874.  
+Solutions: 27006.  
+Solutions: 27236.  
+Solutions: 27524.  
+Solutions: 27816.  
+Solutions: 28072.  
+Solutions: 28288.  
+Solutions: 28452.  
+Solutions: 28650.  
+Solutions: 28920.  
+Solutions: 29228.  
+Solutions: 29484.  
+Solutions: 29692.  
+Solutions: 29950.  
+Solutions: 30196.  
+Solutions: 30380.  
+Solutions: 30650.  
+Solutions: 30952.  
+Solutions: 31252.  
+Solutions: 31446.  
+Solutions: 31652.  
+Solutions: 31854.  
+Solutions: 32020.  
+Solutions: 32240.  
+Solutions: 32520.  
+Solutions: 32768.  
+Solutions: 32902.  
+Solutions: 33058.  
+Solutions: 33192.  
+Solutions: 33316.  
+Solutions: 33496.  
+Solutions: 33706.  
+Solutions: 33902.  
+Solutions: 34112.  
+Solutions: 34178.  
+Solutions: 34274.  
+Solutions: 34452.  
+Solutions: 34660.  
+Solutions: 34856.  
+Solutions: 35052.  
+Solutions: 35224.  
+Solutions: 35326.  
+Solutions: 35402.  
+Solutions: 35636.  
+Solutions: 35856.  
+Solutions: 36022.  
+Solutions: 36128.  
+Solutions: 36232.  
+Solutions: 36336.  
+Solutions: 36538.  
+Solutions: 36758.  
+Solutions: 36898.  
+Solutions: 37008.  
+Solutions: 37070.  
+Solutions: 37208.  
+Solutions: 37390.  
+Solutions: 37552.  
+Solutions: 37740.  
+Solutions: 37884.  
+Solutions: 37996.  
+Solutions: 38088.  
+Solutions: 38156.  
+Solutions: 38410.  
+Solutions: 38642.  
+Solutions: 38840.  
+Solutions: 38992.  
+Solutions: 39162.  
+Solutions: 39328.  
+Solutions: 39542.  
+Solutions: 39938.  
+Solutions: 40368.  
+Solutions: 40726.  
+Solutions: 41018.  
+Solutions: 41296.  
+Solutions: 41484.  
+Solutions: 41716.  
+Solutions: 42108.  
+Solutions: 42470.  
+Solutions: 42796.  
+Solutions: 43072.  
+Solutions: 43386.  
+Solutions: 43594.  
+Solutions: 43782.  
+Solutions: 44052.  
+Solutions: 44428.  
+Solutions: 44668.  
+Solutions: 44880.  
+Solutions: 45128.  
+Solutions: 45374.  
+Solutions: 45672.  
+Solutions: 46002.  
+Solutions: 46422.  
+Solutions: 46742.  
+Solutions: 46970.  
+Solutions: 47220.  
+Solutions: 47336.  
+Solutions: 47496.  
+Solutions: 47670.  
+Solutions: 47944.  
+Solutions: 48256.  
+Solutions: 48478.  
+Solutions: 48576.  
+Solutions: 48644.  
+Solutions: 48790.  
+Solutions: 48956.  
+Solutions: 49168.  
+Solutions: 49432.  
+Solutions: 49664.  
+Solutions: 49844.  
+Solutions: 49920.  
+Solutions: 50012.  
+Solutions: 50266.  
+Solutions: 50504.  
+Solutions: 50706.  
+Solutions: 50846.  
+Solutions: 50946.  
+Solutions: 51090.  
+Solutions: 51300.  
+Solutions: 51510.  
+Solutions: 51692.  
+Solutions: 51814.  
+Solutions: 51906.  
+Solutions: 52060.  
+Solutions: 52302.  
+Solutions: 52510.  
+Solutions: 52736.  
+Solutions: 52916.  
+Solutions: 53040.  
+Solutions: 53190.  
+Solutions: 53270.  
+Solutions: 53528.  
+Solutions: 53770.  
+Solutions: 53976.  
+Solutions: 54192.  
+Solutions: 54366.  
+Solutions: 54534.  
+Solutions: 54690.  
+Solutions: 54798.  
+Solutions: 55114.  
+Solutions: 55462.  
+Solutions: 55704.  
+Solutions: 55950.  
+Solutions: 56228.  
+Solutions: 56468.  
+Solutions: 56712.  
+Solutions: 57090.  
+Solutions: 57448.  
+Solutions: 57684.  
+Solutions: 57982.  
+Solutions: 58266.  
+Solutions: 58484.  
+Solutions: 58784.  
+Solutions: 59150.  
+Solutions: 59474.  
+Solutions: 59648.  
+Solutions: 59852.  
+Solutions: 60092.  
+Solutions: 60340.  
+Solutions: 60624.  
+Solutions: 60968.  
+Solutions: 61370.  
+Solutions: 61556.  
+Solutions: 61770.  
+Solutions: 62022.  
+Solutions: 62234.  
+Solutions: 62398.  
+Solutions: 62654.  
+Solutions: 62906.  
+Solutions: 63212.  
+Solutions: 63400.  
+Solutions: 63532.  
+Solutions: 63642.  
+Solutions: 63744.  
+Solutions: 63972.  
+Solutions: 64186.  
+Solutions: 64388.  
+Solutions: 64554.  
+Solutions: 64702.  
+Solutions: 64782.  
+Solutions: 64876.  
+Solutions: 65074.  
+Solutions: 65268.  
+Solutions: 65426.  
+Solutions: 65570.  
+Solutions: 65666.  
+Solutions: 65727.  
+Solutions: 65797.  
+Solutions: 65898.  
+Solutions: 66012.  
+Solutions: 66092.  
+Solutions: 66149.  
+Solutions: 66190.  
+Solutions: 66290.  
+Solutions: 66416.  
+Solutions: 66513.  
+Solutions: 66634.  
+Solutions: 66746.  
+Solutions: 66833.  
+Solutions: 66918.  
+Solutions: 66988.  
+Solutions: 67108.  
+Solutions: 67249.  
+Solutions: 67365.  
+Solutions: 67504.  
+Solutions: 67589.  
+Solutions: 67683.  
+Solutions: 67775.  
+Solutions: 67870.  
+Solutions: 68009.  
+Solutions: 68213.  
+Solutions: 68376.  
+Solutions: 68522.  
+Solutions: 68648.  
+Solutions: 68779.  
+Solutions: 68889.  
+Solutions: 68993.  
+Solutions: 69201.  
+Solutions: 69369.  
+Solutions: 69491.  
+Solutions: 69610.  
+Solutions: 69783.  
+Solutions: 69909.  
+Solutions: 70020.  
+Solutions: 70184.  
+Solutions: 70386.  
+Solutions: 70514.  
+Solutions: 70610.  
+Solutions: 70741.  
+Solutions: 70871.  
+Solutions: 71015.  
+Solutions: 71176.  
+Solutions: 71367.  
+Solutions: 71528.  
+Solutions: 71606.  
+Solutions: 71719.  
+Solutions: 71812.  
+Solutions: 71901.  
+Solutions: 72034.  
+Solutions: 72145.  
+Solutions: 72290.  
+Solutions: 72420.  
+Solutions: 72479.  
+Solutions: 72572.  
+Solutions: 72661.  
+Solutions: 72758.  
+Solutions: 72869.  
+Solutions: 72972.  
+Solutions: 73097.  
+Solutions: 73197.  
+Solutions: 73257.  
+Solutions: 73315.  
+Solutions: 73394.  
+Solutions: 73488.  
+Solutions: 73603.  
+Solutions: 73675.  
+Solutions: 73738.  
+Solutions: 73740.  
+Processing time: 0.818957 seconds. 
+13-queens problem:
+Solutions: 73760.  
+Processing time: 0.817222 seconds. 
+13-queens problem:
+Solutions: 73753.  
+Processing time: 0.817231 seconds. 
+13-queens problem:
+Solutions: 73724.  
+Processing time: 8.185967 seconds. 
+13-queens problem:
+Solutions: 73724.  
+Processing time: 8.185967 seconds. 
+13-queens problem:
+Solutions: 73724.  
+Processing time: 8.185967 seconds. 
+13-queens problem:
+Solutions: 73724.  
+Processing time: 8.185967 seconds. 
+

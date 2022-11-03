@@ -1,0 +1,77 @@
+architecture rtl of top_nqueens is 
+ 
+    constant K_4: integer := 4; 
+    signal a_in_4: std_logic_vector((N*K_4-1) downto 0); 
+    signal a_out_4: std_logic_vector((N*(K_4+1)-1) downto 0); 
+    signal ack_in_4, next_in_4, ack_out_4, next_out_4: std_logic; 
+    signal output_state_4: std_logic_vector(2 downto 0); 
+ 
+    constant K_3: integer := 3; 
+    signal a_in_3: std_logic_vector((N*K_3-1) downto 0); 
+    signal a_out_3: std_logic_vector((N*(K_3+1)-1) downto 0); 
+    signal ack_in_3, next_in_3, ack_out_3, next_out_3: std_logic; 
+    signal output_state_3: std_logic_vector(2 downto 0); 
+ 
+    constant K_2: integer := 2; 
+    signal a_in_2: std_logic_vector((N*K_2-1) downto 0); 
+    signal a_out_2: std_logic_vector((N*(K_2+1)-1) downto 0); 
+    signal ack_in_2, next_in_2, ack_out_2, next_out_2: std_logic; 
+    signal output_state_2: std_logic_vector(2 downto 0); 
+ 
+    constant K_1: integer := 1; 
+    signal a_in_1: std_logic_vector((N*K_1-1) downto 0); 
+    signal a_out_1: std_logic_vector((N*(K_1+1)-1) downto 0); 
+    signal ack_in_1, next_in_1, ack_out_1, next_out_1: std_logic; 
+    signal output_state_1: std_logic_vector(2 downto 0); 
+ 
+    signal counter_s: unsigned(P downto 0); 
+    signal flag_s, done_s: std_logic; 
+    constant impar: std_logic_vector(0 downto 0) := std_logic_vector(to_unsigned(M,1)); 
+ 
+begin 
+ 
+    fsm_4: entity work.fsm 
+    generic map (K => 4, M => M, N =>N) 
+    port map (clk=>clk, nRst=>nRst, a_in=>a_in_4, ack_in=>ack_in_4, next_in=>next_in_4, a_out=>a_out_4, ack_out=>ack_out_4, next_out=>next_out_4, output_state=>output_state_4); 
+ 
+    fsm_3: entity work.fsm 
+    generic map (K => 3, M => M, N =>N) 
+    port map (clk=>clk, nRst=>nRst, a_in=>a_in_3, ack_in=>ack_in_3, next_in=>next_in_3, a_out=>a_out_3, ack_out=>ack_out_3, next_out=>next_out_3, output_state=>output_state_3); 
+ 
+    fsm_2: entity work.fsm 
+    generic map (K => 2, M => M, N =>N) 
+    port map (clk=>clk, nRst=>nRst, a_in=>a_in_2, ack_in=>ack_in_2, next_in=>next_in_2, a_out=>a_out_2, ack_out=>ack_out_2, next_out=>next_out_2, output_state=>output_state_2); 
+ 
+    fsm_1: entity work.fsm 
+    generic map (K => 1, M => M, N =>N) 
+    port map (clk=>clk, nRst=>nRst, a_in=>a_in_1, ack_in=>ack_in_1, next_in=>next_in_1, a_out=>a_out_1, ack_out=>ack_out_1, next_out=>next_out_1, output_state=>output_state_1); 
+ 
+    a_in_4 <= a_out_3; 
+    ack_in_4  <= ack_out_3; 
+    next_in_3 <= next_out_4;    
+ 
+    a_in_3 <= a_out_2; 
+    ack_in_3  <= ack_out_2; 
+    next_in_2 <= next_out_3;    
+ 
+    a_in_2 <= a_out_1; 
+    ack_in_2  <= ack_out_1; 
+    next_in_1 <= next_out_2;    
+ 
+    counter <= std_logic_vector(counter_s); 
+    done <= done_s; 
+ 
+    counter_process: process(nRst, ack_out_4) 
+    begin 
+        if nRst = '1' then 
+            counter_s <= (others=>'0'); 
+            next_in_4 <= '0'; 
+        elsif (ack_out_4'event and ack_out_4 = '0') then 
+            if flag_s = '1' and impar(0) = '1' then 
+                counter_s <= counter_s + 1; 
+            else 
+                counter_s <= counter_s + 2; 
+            end if; 
+            next_in_4 <= '1'; 
+        end if; 
+    end process; 

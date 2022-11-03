@@ -1,0 +1,48 @@
+    counter_process: process(nRst, clk) 
+    begin 
+        if nRst = '1' then 
+            counter_s <= (others=>'0'); 
+            next_in_4 <= '0'; 
+        else 
+            next_in_4 <= '1'; 
+            if (clk'event and clk = '1') then 
+                if (ack_out_4 = '0') then
+                    if (impar = '1' and last_digit = last_candi) then 
+                        counter_s <= counter_s + 1; 
+                    else 
+                        counter_s <= counter_s + 2; 
+                    end if; 
+                end if;                
+            end if; 
+        end if; 
+    end process; 
+
+Solutions: 79140, 82515, 147765, 152340, 201765 and 217665.
+
+
+----
+
+control sincrónico (revisar)
+
+        if rising_edge(clk) then
+            if (reset = '1') then
+                done_aux <= '0';
+                valid_aux <= '0';  
+                j <= 0;
+                count <= (others => '0');        
+            else
+                if ((j<K) and (done_aux = '0')) then
+                    j <= j + 1;     
+                    if ((u_k /= a_j) and (abs(signed(u_k) - signed(a_j)) /= (K - j))) then
+                        count <= count + 1;                                        
+                    else
+                        done_aux <= '1';
+                    end if; 
+                elsif (j=K) then     
+                    done_aux <= '1';
+                    if (count = K) then
+                        valid_aux <= '1';    
+                    end if; 
+                end if;              
+            end if;
+        end if;        

@@ -1,0 +1,3901 @@
+5-queens problem:
+
+---> TIME = 1 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 3 
+Done: 1.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 5 
+Done: 1.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 7 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 9 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 11 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 13 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 15 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 17 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 19 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 21 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 23 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 25 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 27 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 19.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 29 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 31 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 33 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 35 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 37 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 20.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 39 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 41 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 43 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 45 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 47 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 21.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 49 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 51 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 1.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 53 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 55 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 57 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 59 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 61 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 63 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 65 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 67 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 69 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 309.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 71 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 73 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 19.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 75 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 77 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 79 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 36.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 81 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 83 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 85 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 87 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 89 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 37.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 91 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 322.    
+a_in_3 : 309.    
+a_out_3: 4946.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 93 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 2.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 95 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 97 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 99 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 101 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 103 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 3.    
+a_out_1: 49.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 105 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 107 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 109 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 111 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 113 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 115 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 117 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 119 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 20.    
+a_out_2: 0.    
+a_in_3 : 309.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 121 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 123 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 125 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 127 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 129 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 131 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 3.    
+a_out_1: 53.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 133 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 135 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 3.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 79140.    
+ack_out: 0.    
+
+---> TIME = 137 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 338.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 139 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 141 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 143 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 145 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 147 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 4946.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 149 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 151 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 153 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 155 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 157 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 159 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 161 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 163 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 5157.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 165 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 21.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 167 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 322.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 169 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 171 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 173 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 175 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 177 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 577.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 179 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 181 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 183 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 185 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 187 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 189 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 191 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 193 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 195 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 197 
+Done: 0.       
+Solutions: 22.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 82515.    
+ack_out: 0.    
+
+---> TIME = 199 
+Done: 0.       
+Solutions: 22.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 201 
+Done: 0.       
+Solutions: 24.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 203 
+Done: 0.       
+Solutions: 24.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 205 
+Done: 0.       
+Solutions: 24.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 207 
+Done: 0.       
+Solutions: 24.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 209 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 211 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 36.    
+a_out_2: 0.    
+a_in_3 : 338.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 213 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 215 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 217 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 5157.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 219 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 221 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 223 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 593.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 225 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 227 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 229 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 231 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 233 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 235 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 237 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 239 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 241 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 595.    
+a_in_3 : 577.    
+a_out_3: 9235.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 243 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 245 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 247 
+Done: 0.       
+Solutions: 30.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 249 
+Done: 0.       
+Solutions: 30.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 251 
+Done: 0.       
+Solutions: 30.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 253 
+Done: 0.       
+Solutions: 30.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 255 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 257 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 259 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 261 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 37.    
+a_out_2: 0.    
+a_in_3 : 577.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 263 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 265 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 267 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 269 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 271 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 273 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 275 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 277 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 279 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 281 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 283 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 285 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 287 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 289 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 291 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 147765.    
+ack_out: 0.    
+
+---> TIME = 293 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 788.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 295 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9235.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 297 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 299 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 9492.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 301 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 303 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 305 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 49.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 307 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 309 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 311 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 593.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 313 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 315 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 317 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 319 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 321 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 323 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 850.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 325 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 9521.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 327 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 329 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 331 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 333 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 335 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 337 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 339 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 341 
+Done: 0.       
+Solutions: 16.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 343 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 345 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 347 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 349 
+Done: 0.       
+Solutions: 18.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 53.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 351 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 353 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9492.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 355 
+Done: 0.       
+Solutions: 20.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 357 
+Done: 0.       
+Solutions: 22.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 359 
+Done: 0.       
+Solutions: 22.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 361 
+Done: 0.       
+Solutions: 22.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 595.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 363 
+Done: 0.       
+Solutions: 22.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 365 
+Done: 0.       
+Solutions: 22.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 367 
+Done: 0.       
+Solutions: 24.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 369 
+Done: 0.       
+Solutions: 24.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 371 
+Done: 0.       
+Solutions: 24.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 373 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 375 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 377 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 379 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 381 
+Done: 0.       
+Solutions: 26.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 383 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 12610.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 385 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 387 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 389 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 391 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 393 
+Done: 0.       
+Solutions: 28.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 395 
+Done: 0.       
+Solutions: 30.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 152340.    
+ack_out: 0.    
+
+---> TIME = 397 
+Done: 0.       
+Solutions: 30.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 399 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 401 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 403 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 405 
+Done: 0.       
+Solutions: 0.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 407 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 409 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 9521.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 411 
+Done: 0.       
+Solutions: 2.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 413 
+Done: 0.       
+Solutions: 3.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 415 
+Done: 0.       
+Solutions: 3.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 788.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 417 
+Done: 0.       
+Solutions: 3.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 419 
+Done: 0.       
+Solutions: 3.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 421 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 423 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 425 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 427 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 429 
+Done: 0.       
+Solutions: 4.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 431 
+Done: 0.       
+Solutions: 5.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 433 
+Done: 0.       
+Solutions: 5.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 435 
+Done: 0.       
+Solutions: 5.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 437 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 439 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 441 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 443 
+Done: 0.       
+Solutions: 6.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 445 
+Done: 0.       
+Solutions: 7.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 447 
+Done: 0.       
+Solutions: 7.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 449 
+Done: 0.       
+Solutions: 7.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 451 
+Done: 0.       
+Solutions: 7.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 453 
+Done: 0.       
+Solutions: 7.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 455 
+Done: 0.       
+Solutions: 7.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 13604.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 457 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 201765.    
+ack_out: 0.    
+
+---> TIME = 459 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 461 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 12610.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 463 
+Done: 0.       
+Solutions: 8.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 465 
+Done: 0.       
+Solutions: 9.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 467 
+Done: 0.       
+Solutions: 9.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 469 
+Done: 0.       
+Solutions: 9.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 850.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 471 
+Done: 0.       
+Solutions: 9.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 473 
+Done: 0.       
+Solutions: 9.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 475 
+Done: 0.       
+Solutions: 9.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 477 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 217665.    
+ack_out: 0.    
+
+---> TIME = 479 
+Done: 0.       
+Solutions: 10.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 481 
+Done: 0.       
+Solutions: 11.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 483 
+Done: 0.       
+Solutions: 11.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 485 
+Done: 0.       
+Solutions: 11.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 487 
+Done: 0.       
+Solutions: 11.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 489 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 491 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 493 
+Done: 0.       
+Solutions: 12.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 495 
+Done: 0.       
+Solutions: 13.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 497 
+Done: 0.       
+Solutions: 13.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 499 
+Done: 0.       
+Solutions: 13.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 501 
+Done: 0.       
+Solutions: 13.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 503 
+Done: 0.       
+Solutions: 13.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 505 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 507 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 509 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 511 
+Done: 0.       
+Solutions: 14.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 513 
+Done: 0.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 515 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 13604.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 517 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 519 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 521 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 523 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 525 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 527 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 529 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 531 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 533 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 535 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 537 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 539 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 541 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 543 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 545 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 547 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 549 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 551 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 553 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 555 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 557 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 559 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 561 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 563 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 565 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 567 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 569 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 571 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 573 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 575 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 577 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 579 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 581 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 583 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 585 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 587 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 589 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 591 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 593 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 595 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 597 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    
+
+---> TIME = 599 
+Done: 1.       
+Solutions: 15.  
+a_in_1 : 0.    
+a_out_1: 0.    
+a_in_2 : 0.    
+a_out_2: 0.    
+a_in_3 : 0.    
+a_out_3: 0.    
+a_in_4 : 0.    
+a_out_4: 0.    
+ack_out: 1.    

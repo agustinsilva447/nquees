@@ -1,0 +1,11 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.10.17 12:34:10 =~=~=~=~=~=~=~=~=~=~=~=
+11-queens problem:
+Solutions: 2680.  
+Processing time: 0.020967 seconds. 
+11-queens problem:
+Solutions: 2281388.  
+Processing time: 32.204995 seconds. 
+12-queens problem:
+Solutions: 14212.  
+Processing time: 0.110424 seconds. 
+
