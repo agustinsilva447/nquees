@@ -15,11 +15,11 @@ def vhdl_nqueens(n):
 
         f.write("    signal s_nonzero: std_logic; \n")
         f.write("    signal array_zeros: std_logic_vector(M-1 downto 0); \n")
-        f.write("    signal last_solu: std_logic_vector((N*(K_{}+1)-1) downto 0); \n".format(n-1))
         f.write("    signal last_candi: unsigned(N-1 downto 0); \n")
         f.write("    signal last_digit: unsigned(N-1 downto 0); \n")
         f.write("    signal counter_s: unsigned(P-1 downto 0); \n")
         f.write("    signal nRst, done_s: std_logic; \n")
+        f.write("    signal fread, fempt: std_logic; \n")        
         f.write("    constant impar_vector: std_logic_vector(0 downto 0) := std_logic_vector(to_unsigned(M mod 2, 1)); \n")
         f.write("    constant impar: std_logic := impar_vector(0);\n\n")    
 
@@ -69,7 +69,12 @@ def vhdl_nqueens(n):
         f.write("    counter <= std_logic_vector(counter_s); \n")
         f.write("    last_digit <= unsigned(a_in_{}((N*(M-1)-1) downto (N*(M-2)))); \n".format(n-1))
         f.write("    last_candi <= (to_unsigned(M/2, N) + 1)  when impar = '1' else \n")
-        f.write("                  (to_unsigned(M/2, N))      when impar = '0'; \n\n")    
+        f.write("                  (to_unsigned(M/2, N))      when impar = '0'; \n\n")   
+
+        f.write("    din1    <= p_din1(N-1 downto 0); \n")        
+        f.write("    fempt   <= p_empt; \n")
+        f.write("    wen1    <= fread; \n")
+        f.write("    p_fread <= fread; \n\n")
     
         f.write("    GENERATE_FOR_out: for i in 0 to M-1 generate \n")
         f.write("        asout_array(i) <= a_out_{}((N*(i+1)-1) downto N*i); \n".format(n-1))
@@ -84,12 +89,10 @@ def vhdl_nqueens(n):
         f.write("        if nRst = '1' then \n")
         f.write("            next_in_{} <= '0'; \n".format(n-1))
         f.write("            counter_s <= (others=>'0'); \n")
-        f.write("            -- last_solu <= (others=>'0'); \n")
         f.write("        else \n")
         f.write("            next_in_{} <= '1'; \n".format(n-1))
         f.write("            if (clk'event and clk = '1') then \n")
         f.write("                if (ack_out_{} = '0') then \n".format(n-1,n-1))
-        f.write("                    -- last_solu <= a_out_{}; \n".format(n-1))
         f.write("                    if (impar = '1' and last_digit = last_candi) then \n")
         f.write("                        counter_s <= counter_s + 1; \n")
         f.write("                    else \n")
@@ -100,12 +103,11 @@ def vhdl_nqueens(n):
         f.write("        end if; \n")
         f.write("    end process; \n\n")
 
-        f.write("    init_process: process(nRst, clk) \n")
+        f.write("    reading_process: process(nRst, clk) \n")
         f.write("    begin \n")
         f.write("        if nRst = '1' then \n")
         f.write("            done_s <= '0'; \n")
-        f.write("            wen1 <= '0'; \n")
-        f.write("            din1 <= (others=>'0'); \n")
+        f.write("            fread <= '0'; \n")
         f.write("        elsif (clk'event and clk = '1') then \n")
         done_s = "done_s <= ("
         for i in range(1,n):
@@ -114,29 +116,13 @@ def vhdl_nqueens(n):
                 done_s = done_s + " and "
         done_s = done_s + "); \n"        
         f.write("            "+done_s)
-        f.write("            if (aful1 = '0' and unsigned(din1) < last_candi) then \n")
-        f.write("                din1 <= std_logic_vector(unsigned(din1) + 1); \n")
-        f.write("                wen1 <= '1'; \n")
+        f.write("            if (fempt = '0' and aful1 = '0') then \n")
+        f.write("                fread <= '1'; \n")
         f.write("            else \n")
-        f.write("                wen1 <= '0'; \n")
+        f.write("                fread <= '0'; \n")
         f.write("            end if; \n")
         f.write("        end if; \n")
         f.write("    end process; \n\n")
         f.write("end architecture;")
-
-vhdl_nqueens(5)
-
-"""
---    reading_process: process(nRst, clk)
---    begin
---        if nRst = '1' then
---            fread <= '0';
---        else
---            if (fvali = '1' and aful1 = '0') then
---                fread <= '1'; 
---            else
---                fread <= '0';
---            end if;
---        end if;
---    end process;   
-"""
+        
+vhdl_nqueens(15)
