@@ -1,4 +1,3 @@
-import time
 import numpy as np
 
 def presols_list(n,m):
@@ -36,30 +35,15 @@ def int_to_binary(n,m):
 n = 20
 m = 2
 presols_i = presols_list(n,m)[m-1]
+
 presols_o = []
 for i in presols_i:
     presol = ""
     for j in i:
         presol += int_to_binary(j,8)
     presols_o.append(int(presol,2))
+    
 
-#x = len(presols_o)
 data = ','.join(map(str, presols_o))
 lenght = len(presols_o)
-
-app("connect")
-app('log 0')
-app('x_write_reg 0 1')
-app('x_write_reg 0 0')
-
-start = time.time()
-app('x_write_fifo {} {}'.format(data, lenght))
-while(app(f'x_read_reg 0').data[1][0] == 0):
-    time.sleep(60)
-    print(app(f'x_read_reg 1'))
-    pass
-end = time.time()
-nsol = app(f'x_read_reg 1')
-
-print("Solutions:", nsol.data[1][0])
-print("Time:", end - start)
+print('Number of pre-solutions: {}.'.format(lenght))

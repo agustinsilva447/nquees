@@ -1,10 +1,10 @@
-def vhdl_nqueens(n):
+def vhdl_nqueens(n,q):
     with open('nqueens_{}.txt'.format(n), 'w') as f:
         f.write("architecture rtl of top_nqueens is \n\n")
         f.write("    type array_out is array (M-1 downto 0) of std_logic_vector(N-1 downto 0); \n")
         f.write("    signal asout_array: array_out; \n\n")
 
-        for i in range(n-1, 0, -1):
+        for i in range(n-1, q-1, -1):
             f.write("    constant K_{}: integer := {}; \n".format(i,i))
             f.write("    signal a_in_{}: std_logic_vector((N*K_{}-1) downto 0); \n".format(i,i))
             f.write("    signal a_out_{}: std_logic_vector((N*(K_{}+1)-1) downto 0); \n".format(i,i))
@@ -18,7 +18,7 @@ def vhdl_nqueens(n):
         f.write("    signal last_solu: std_logic_vector((N*(K_{}+1)-1) downto 0); \n".format(n-1))
         f.write("    signal last_candi: unsigned(N-1 downto 0); \n")
         f.write("    signal last_digit: unsigned(N-1 downto 0); \n")
-        f.write("    signal counter_s: unsigned(P-1 downto 0); \n")
+        f.write("    signal counter_s: unsigned(63 downto 0); \n")
         f.write("    signal nRst, done_s: std_logic; \n")
         f.write("    signal fread, fempt: std_logic; \n")        
         f.write("    constant impar_vector: std_logic_vector(0 downto 0) := std_logic_vector(to_unsigned(M mod 2, 1)); \n")
@@ -47,24 +47,24 @@ def vhdl_nqueens(n):
         f.write("      end function f_BITWISE_OR; \n\n")
 
         f.write("begin \n\n")
-        for i in range(n-1, 0, -1):
+        for i in range(n-1, q-1, -1):
             f.write("    fsm_{}: entity work.fsm \n".format(i))
             f.write("    generic map (K => {}, M => M, N =>N) \n".format(i))
             f.write("    port map (clk=>clk, nRst=>nRst, a_in=>a_in_{}, ack_in=>ack_in_{}, next_in=>next_in_{}, a_out=>a_out_{}, ack_out=>ack_out_{}, next_out=>next_out_{}, output_state=>output_state_{}); \n\n".format(i,i,i,i,i,i,i))
-        for i in range(n-1, 0, -1): 
+        for i in range(n-1, q-1, -1): 
             f.write("    fifo_{}: entity work.fifo \n".format(i))
             f.write("    generic map(DWIDTH => N*K_{}, DEPTH => F, AFULLOFFSET => 1, AEMPTYOFFSET => 1, ASYNC => False) \n".format(i))
             f.write("    port map(wclk_i=>clk, rclk_i=>clk, wrst_i=>nRst, rrst_i=>nRst, data_i => din{}, wen_i => wen{}, ren_i => ren{}, data_o => dou{}, afull_o => aful{}, empty_o => emp{}); \n\n".format(i,i,i,i,i,i))
-        for i in range(n-1, 1, -1):
+        for i in range(n-1, q, -1):
             f.write("    ack_in_{} <= emp{}; \n".format(i,i))
             f.write("    a_in_{} <= dou{}; \n".format(i,i))
             f.write("    ren{} <= next_out_{}; \n".format(i,i))
             f.write("    wen{} <= not ack_out_{}; \n".format(i,i-1))
             f.write("    din{} <= a_out_{}; \n".format(i,i-1))
             f.write("    next_in_{} <= not aful{}; \n\n".format(i-1,i))
-        f.write("    ack_in_1 <= emp1; \n")
-        f.write("    a_in_1 <= dou1; \n")
-        f.write("    ren1 <= next_out_1; \n")
+        f.write("    ack_in_{} <= emp{}; \n".format(q,q))
+        f.write("    a_in_{} <= dou{}; \n".format(q,q))
+        f.write("    ren{} <= next_out_{}; \n".format(q,q))
         f.write("    done <= done_s; \n")
         f.write("    nRst <= p_nRst; \n")
         f.write("    counter <= std_logic_vector(counter_s); \n")
@@ -72,9 +72,9 @@ def vhdl_nqueens(n):
         f.write("    last_candi <= (to_unsigned(M/2, N) + 1)  when impar = '1' else \n")
         f.write("                  (to_unsigned(M/2, N))      when impar = '0'; \n\n")   
 
-        f.write("    din1    <= p_din1(N-1 downto 0); \n")        
+        f.write("    din{}   <= p_din(N*Q-1 downto 0); \n".format(q))        
         f.write("    fempt   <= p_empt; \n")
-        f.write("    wen1    <= fread; \n")
+        f.write("    wen{}    <= fread; \n".format(q))
         f.write("    p_fread <= fread; \n\n")
     
         f.write("    GENERATE_FOR_out: for i in 0 to M-1 generate \n")
@@ -113,13 +113,13 @@ def vhdl_nqueens(n):
         f.write("            fread <= '0'; \n")
         f.write("        elsif (clk'event and clk = '1') then \n")
         done_s = "done_s <= ("
-        for i in range(1,n):
+        for i in range(q,n):
             done_s = done_s + "emp{}".format(i)
             if (i!=n-1):
                 done_s = done_s + " and "
         done_s = done_s + "); \n"        
         f.write("            "+done_s)
-        f.write("            if (fempt = '0' and aful1 = '0') then \n")
+        f.write("            if (fempt = '0' and aful{} = '0') then \n".format(q))
         f.write("                fread <= '1'; \n")
         f.write("            else \n")
         f.write("                fread <= '0'; \n")
@@ -128,4 +128,4 @@ def vhdl_nqueens(n):
         f.write("    end process; \n\n")
         f.write("end architecture;")
         
-vhdl_nqueens(15)
+vhdl_nqueens(20,2)
