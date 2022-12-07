@@ -1,0 +1,69 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.362774",
+   "Default View_TopLeft":"-174,0",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r4  2019-12-20 bk=1.5203 VDI=41 GEI=36 GUI=JA:10.0 TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 7 -x 2210 -y 1150 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 7 -x 2210 -y 1170 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 4 -x 1250 -y 1230 -defaultsOSRD
+preplace inst comblock_0 -pg 1 -lvl 6 -x 1990 -y 830 -defaultsOSRD
+preplace inst ps7_0_axi_periph -pg 1 -lvl 5 -x 1640 -y 1030 -defaultsOSRD
+preplace inst rst_ps7_0_100M -pg 1 -lvl 4 -x 1250 -y 1010 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 4 -x 1250 -y 800 -defaultsOSRD
+preplace inst xlconcat_0 -pg 1 -lvl 5 -x 1640 -y 790 -defaultsOSRD
+preplace inst demux_presol_0 -pg 1 -lvl 2 -x 550 -y 510 -defaultsOSRD
+preplace inst xlslice_0 -pg 1 -lvl 5 -x 1640 -y 430 -defaultsOSRD
+preplace inst xlslice_1 -pg 1 -lvl 5 -x 1640 -y 530 -defaultsOSRD
+preplace inst top_nqueens_0 -pg 1 -lvl 3 -x 870 -y 500 -defaultsOSRD
+preplace inst top_nqueens_1 -pg 1 -lvl 1 -x 200 -y 270 -defaultsOSRD
+preplace inst top_nqueens_2 -pg 1 -lvl 1 -x 200 -y 90 -defaultsOSRD
+preplace inst top_nqueens_3 -pg 1 -lvl 1 -x 200 -y 690 -defaultsOSRD
+preplace inst adder_counts_0 -pg 1 -lvl 4 -x 1250 -y 230 -defaultsOSRD
+preplace netloc adder_counts_0_done_O 1 4 1 1470 240n
+preplace netloc comblock_0_fifo_data_o 1 1 6 410 680 NJ 680 NJ 680 NJ 680 NJ 680 2180
+preplace netloc comblock_0_fifo_empty_o 1 1 6 420 890 NJ 890 NJ 890 NJ 890 1790J 970 2170
+preplace netloc comblock_0_reg0_o 1 0 7 30 460 370 660 710 410 1040 690 NJ 690 NJ 690 2170
+preplace netloc demux_presol_0_d_A 1 2 1 720 430n
+preplace netloc demux_presol_0_d_B 1 0 3 60 370 NJ 370 680
+preplace netloc demux_presol_0_d_C 1 0 3 60 180 NJ 180 700
+preplace netloc demux_presol_0_d_D 1 0 3 60 800 NJ 800 700
+preplace netloc demux_presol_0_e_A 1 2 1 N 510
+preplace netloc demux_presol_0_e_B 1 0 3 50 360 NJ 360 690
+preplace netloc demux_presol_0_e_C 1 0 3 40 780 NJ 780 690
+preplace netloc demux_presol_0_e_D 1 0 3 50 790 NJ 790 680
+preplace netloc demux_presol_0_r_fifo 1 2 5 NJ 590 NJ 590 NJ 590 NJ 590 2190
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 6 20 440 380 670 730 900 1020 900 1470 900 1810
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 3 2 1040 910 1460
+preplace netloc rst_ps7_0_100M_peripheral_aresetn 1 4 2 1490 910 N
+preplace netloc top_nqueens_0_counter 1 3 1 1010 170n
+preplace netloc top_nqueens_0_done 1 3 1 1030 250n
+preplace netloc top_nqueens_0_p_fread 1 1 3 400 650 NJ 650 1030
+preplace netloc top_nqueens_1_counter 1 1 3 340 190 NJ 190 NJ
+preplace netloc top_nqueens_1_done 1 1 3 N 270 NJ 270 NJ
+preplace netloc top_nqueens_1_p_fread 1 1 1 340 290n
+preplace netloc top_nqueens_2_counter 1 1 3 NJ 70 NJ 70 1030
+preplace netloc top_nqueens_2_done 1 1 3 380 290 NJ 290 NJ
+preplace netloc top_nqueens_2_p_fread 1 1 1 350 110n
+preplace netloc top_nqueens_3_counter 1 1 3 360 230 NJ 230 NJ
+preplace netloc top_nqueens_3_done 1 1 3 NJ 690 NJ 690 1020
+preplace netloc top_nqueens_3_p_fread 1 1 1 390 540n
+preplace netloc xlconcat_0_dout 1 5 1 N 790
+preplace netloc xlconstant_0_dout 1 4 1 NJ 800
+preplace netloc adder_counts_0_coun_O 1 4 1 1490 220n
+preplace netloc xlslice_0_Dout 1 5 1 1810 430n
+preplace netloc xlslice_1_Dout 1 5 1 1790 530n
+preplace netloc processing_system7_0_DDR 1 4 3 NJ 1150 NJ 1150 NJ
+preplace netloc processing_system7_0_FIXED_IO 1 4 3 NJ 1170 NJ 1170 NJ
+preplace netloc processing_system7_0_M_AXI_GP0 1 4 1 1480 970n
+preplace netloc ps7_0_axi_periph_M00_AXI 1 5 1 1800 750n
+levelinfo -pg 1 0 200 550 870 1250 1640 1990 2210
+pagesize -pg 1 -db -bbox -sgen 0 0 2330 1370
+"
+}
+{
+   "da_axi4_cnt":"1",
+   "da_clkrst_cnt":"5",
+   "da_ps7_cnt":"1"
+}
