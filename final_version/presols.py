@@ -1,3 +1,4 @@
+import time
 import numpy as np
 
 def presols_list(n,m):
@@ -44,6 +45,9 @@ for i in presols_i:
     presols_o.append(int(presol,2))
     
 
-data = ','.join(map(str, presols_o))
-lenght = len(presols_o)
-print('Number of pre-solutions: {}.'.format(lenght))
+x = len(presols_o)
+#x = 10
+fifo_data = presols_o[0:x]
+data = ','.join(map(str, fifo_data))
+lenght = len(fifo_data)
+print('x_write_fifo {} {}'.format(data, lenght))

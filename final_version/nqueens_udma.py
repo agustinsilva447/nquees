@@ -43,23 +43,32 @@ for i in presols_i:
         presol += int_to_binary(j,8)
     presols_o.append(int(presol,2))
 
-#x = len(presols_o)
-data = ','.join(map(str, presols_o))
-lenght = len(presols_o)
+x = len(presols_o)
+fifo_data = presols_o[0:x]
+data = ','.join(map(str, fifo_data))
+lenght = len(fifo_data)
+print('x_write_fifo {} {}'.format(data, lenght))
 
-app("connect")
 app('log 0')
+app('set debug true')
 app('x_write_reg 0 1')
 app('x_write_reg 0 0')
+print("Solving the N-queens problem for N = {} and M = {}.".format(n,m))
 
+i = 0
 start = time.time()
 app('x_write_fifo {} {}'.format(data, lenght))
-while(app(f'x_read_reg 0').data[1][0] == 0):
+time.sleep(1)
+while(app(f'x_read_reg 0').data[1] == 0):
     time.sleep(60)
-    print(app(f'x_read_reg 1'))
+    i += 1
+    nsol_l = app(f'x_read_reg 1').data[1]
+    nsol_h = app(f'x_read_reg 2').data[1]
+    print('{} minutes. {} solutions_high. {} solutions_low.'.format(i,nsol_h,nsol_l))
     pass
 end = time.time()
-nsol = app(f'x_read_reg 1')
+nsol_l = app(f'x_read_reg 1').data[1]
+nsol_h = app(f'x_read_reg 2').data[1]
 
-print("Solutions:", nsol.data[1][0])
+print("Solutions_h = {}. Solutions_l = {}.".format(nsol_h, nsol_l))
 print("Time:", end - start)
