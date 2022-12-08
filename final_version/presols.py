@@ -32,8 +32,8 @@ def int_to_binary(n,m):
     binary2 = "0" * (m - len(binary1)) + binary1
     return binary2
 
-n = 20
-m = 2
+n = 10
+m = 10
 presols_i = presols_list(n,m)[m-1]
 
 presols_o = []
@@ -46,4 +46,6 @@ for i in presols_i:
 
 data = ','.join(map(str, presols_o))
 lenght = len(presols_o)
+print("N = {}. M = {}.".format(n,m))
 print('Number of pre-solutions: {}.'.format(lenght))
+#print('Pre-solutions: {}.'.format(data))
