@@ -1,5 +1,26 @@
 def vhdl_nqueens(n,q):
-    with open('nqueens_{}.txt'.format(n), 'w') as f:
+    with open('top_nqueens_{}_{}.vhdl'.format(n,q), 'w') as f:
+        f.write("library ieee;\n")
+        f.write("use ieee.std_logic_1164.all;\n")
+        f.write("use ieee.numeric_std.all;\n\n")
+        f.write("entity top_nqueens is\n")
+        f.write("generic(\n")
+        f.write("        F : integer; -- depth of the fifo\n")
+        f.write("        M : integer; -- size of the board MxM\n")
+        f.write("        Q : integer; -- columns in pre-solution\n")
+        f.write("        N : integer  -- N-1 bits required to count upto size of the board;\n")
+        f.write("    );  \n")
+        f.write("port(\n")
+        f.write("    clk     : in  std_logic;\n")
+        f.write("    p_nRst  : in  std_logic; \n")
+        f.write("    p_empt  : in  std_logic; \n")
+        f.write("    p_din   : in  std_logic_vector(31 downto 0);\n")
+        f.write("    counter : out std_logic_vector(63 downto 0);\n")
+        f.write("    done    : out std_logic;\n")
+        f.write("    p_fread : out std_logic\n")
+        f.write("    );\n")
+        f.write("end entity;\n\n")
+
         f.write("architecture rtl of top_nqueens is \n\n")
         f.write("    type array_out is array (M-1 downto 0) of std_logic_vector(N-1 downto 0); \n")
         f.write("    signal asout_array: array_out; \n\n")
@@ -127,5 +148,7 @@ def vhdl_nqueens(n,q):
         f.write("        end if; \n")
         f.write("    end process; \n\n")
         f.write("end architecture;")
-        
-vhdl_nqueens(20,2)
+
+n = int(input("Size of the board: "))
+q = int(input("Elements in the pre-solutions: "))        
+vhdl_nqueens(n,q)

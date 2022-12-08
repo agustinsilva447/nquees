@@ -1,3 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity top_nqueens is
+generic(
+        F : integer; -- depth of the fifo
+        M : integer; -- size of the board MxM
+        Q : integer; -- columns in pre-solution
+        N : integer  -- N-1 bits required to count upto size of the board;
+    );  
+port(
+    clk     : in  std_logic;
+    p_nRst  : in  std_logic; 
+    p_empt  : in  std_logic; 
+    p_din   : in  std_logic_vector(31 downto 0);
+    counter : out std_logic_vector(63 downto 0);
+    done    : out std_logic;
+    p_fread : out std_logic
+    );
+end entity;
+
 architecture rtl of top_nqueens is 
 
     type array_out is array (M-1 downto 0) of std_logic_vector(N-1 downto 0); 
